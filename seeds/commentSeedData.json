@@ -1,0 +1,17 @@
+[
+    {
+        "comment": "This is a really cool app.",
+        "date_created": "9-9-22",
+        "user_id": "1"
+    },
+    {
+        "comment": "This class is really hard.",
+        "date_created": "9-18-22",
+        "user_id": "3"
+    },
+    {
+        "comment": "I am enjoying this homework!",
+        "date_created": "9-22-22",
+        "user_id": "2"
+    }
+]
